@@ -13,11 +13,10 @@
       "react": "latest",
       "react-dom": "latest",
       "lucide-react": "latest",
-      "framer-motion": "latest",
-      "canvas-confetti": "latest",
+      
       "clsx": "latest",
       "tailwind-merge": "latest"
-    },
+    }
   "devDependencies": {
     "@tailwindcss/postcss": "^4.2.0",
     "@types/node": "^22",
